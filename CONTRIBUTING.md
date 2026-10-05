@@ -6,6 +6,7 @@ Thanks for helping keep this the most honest directory of free Grammarly alterna
 
 1. **Check it fits:** the entry must be a grammar, spelling, style, readability, or closely related writing checker with a **genuinely usable free tier** (permanent free plan) or a **free/open-source** license. Free trials do not count. Generic AI chatbots (ChatGPT, Claude, Gemini) do not count as entries — they are covered as a pattern in the guides. A PR must point at a primary source: the vendor's official site/docs or the project's official repo.
 2. **Add to the right section** of `README.md`:
+   - System-wide Desktop Assistants (Refine-class) → desktop apps that fix writing inside other apps; free, open-source, **or one-time purchase** (label it — this is the only section where a one-time price is acceptable, mirroring Refine's $38 lifetime model)
    - Grammar & Style Checkers (Free Tier) → web/extension checkers with a permanent free plan
    - Open Source & Offline → OSS or self-hostable checkers
    - Readability & Clarity → readability scoring and sentence-clarity tools
@@ -18,8 +19,9 @@ Thanks for helping keep this the most honest directory of free Grammarly alterna
 |---|---|---|
 | `name` | string | product / project name |
 | `org` | string | vendor / organization / author |
-| `category` | string | `grammar-checkers` / `open-source` / `readability` / `academic` / `built-in-free` |
+| `category` | string | `system-wide` / `grammar-checkers` / `open-source` / `readability` / `academic` / `built-in-free` |
 | `description` | string | one sentence |
+| `best_for` | string | 3–7 words: the writing job this tool wins at |
 | `url` | string | official https:// URL |
 | `license` | string | exact OSS license, or free model in a few words (e.g. `Freemium (free tier)`) |
 | `open_source` | bool | `true` / `false` |

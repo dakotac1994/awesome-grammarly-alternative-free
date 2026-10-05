@@ -23,6 +23,18 @@ What each free tier actually lets you do, as of 2026-10-04. Limits change often;
 | Microsoft Editor | Basic spelling/grammar in Edge/Chrome | Clarity/conciseness/vocabulary refinements with Microsoft 365 |
 | Google Docs suggestions | Included with Google account | Workspace plans add admin/team features, not deeper grammar |
 
+## System-wide (Refine-class) pricing, in one view
+
+| Tool | Model |
+|---|---|
+| Refine | Free core; $38 one-time lifetime |
+| GhostEdit, WritingTools, GemType | Free and open-source ($0; GemType uses your free Gemini key) |
+| RewriteBar | $29 one-time; optional hosted Gateway add-on |
+| GrammarGem | $39 one-time (Solo, 1 Mac) |
+| Cotypist | Free plan with daily limit; Plus/Pro subscriptions |
+| Elephas, Typewise | Freemium subscriptions |
+| Fixkey, Kerlig, BoltAI | One-time license; you pay your own API usage |
+
 ## When paying is actually worth it
 
 - You write **professionally every day** and the advanced style rules (not the basic fixes) save real editing time.
