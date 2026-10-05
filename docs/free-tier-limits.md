@@ -21,6 +21,7 @@ What each free tier actually lets you do, as of 2026-10-04. Limits change often;
 | Paperpal | Limited language suggestions | Unlimited suggestions, submission-readiness and plagiarism checks |
 | Quetext | Limited plagiarism words/month | Higher limits, detailed reports, grammar suite |
 | Microsoft Editor | Basic spelling/grammar in Edge/Chrome | Clarity/conciseness/vocabulary refinements with Microsoft 365 |
+| Apple Writing Tools | Included on Apple Intelligence devices; no caps published | Supported devices/languages only; no plagiarism or team features |
 | Google Docs suggestions | Included with Google account | Workspace plans add admin/team features, not deeper grammar |
 
 ## System-wide (Refine-class) pricing, in one view

@@ -14,6 +14,7 @@
 
 | App | Platform | Engine | Price | Pick it if… |
 |---|---|---|---|---|
+| [Apple Writing Tools](https://support.apple.com/guide/mac-help/writing-tools-write-improve-summarize-mchldcd6c260/mac) | macOS / iOS / iPadOS | On-device (Apple Intelligence) | Free (built-in) | You have an Apple Intelligence device and want zero installs — the baseline this whole class is compared against |
 | [Refine](https://refine.sh/) | macOS 14+ | Local models + BYOK | Free core / $38 once | You want the most complete offline Grammarly replacement on Mac |
 | [GhostEdit](https://github.com/nareshnavinash/GhostEdit) | macOS 13+ | Local HF models / BYOK | Free (MIT) | You want that idea open-source, hotkey-driven, $0 |
 | [GrammarGem](https://www.grammargem.com/) | macOS (Apple Silicon) | On-device | $39 once | You want one hotkey, writing modes, zero setup |

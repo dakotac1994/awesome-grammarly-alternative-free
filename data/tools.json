@@ -1060,5 +1060,23 @@
     "platforms": "macOS",
     "engine": "BYOK + local (Ollama)",
     "offline": "Partial (local models)"
+  },
+  {
+    "name": "Apple Writing Tools",
+    "org": "Apple",
+    "category": "built-in-free",
+    "description": "Built into macOS, iOS, and iPadOS with Apple Intelligence: proofread for grammar and spelling, rewrite in Friendly, Professional, or Concise tones, and summarize selected text in most apps.",
+    "best_for": "Built-in proofreading on Mac & iPhone",
+    "url": "https://support.apple.com/guide/mac-help/writing-tools-write-improve-summarize-mchldcd6c260/mac",
+    "license": "Free with Apple Intelligence (supported devices)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Proofread checks grammatical and spelling errors, with explanations for each change",
+      "Rewrite in Friendly, Professional, or Concise tones, or describe your own change",
+      "Works in most places you write, including third-party apps and websites (vendor claim)",
+      "Requires an Apple Intelligence device (iPhone 15 Pro or later, M1-or-later Mac/iPad) and a supported language/region"
+    ]
   }
 ]

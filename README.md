@@ -1,6 +1,6 @@
 # Awesome Grammarly Alternative (Free) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Free Grammarly alternatives that actually hold up: system-wide desktop assistants in the style of [Refine](https://refine.sh/), grammar checkers with a real free tier, and open-source tools that run entirely on your machine. **57 tools**, each checked against its official source; paid upsells and free-tier caps are labeled, never hidden.
+> Free Grammarly alternatives that actually hold up: system-wide desktop assistants in the style of [Refine](https://refine.sh/), grammar checkers with a real free tier, and open-source tools that run entirely on your machine. **58 tools**, each checked against its official source; paid upsells and free-tier caps are labeled, never hidden.
 
 ## Start here
 
@@ -14,19 +14,23 @@
 | A manuscript / novel editor | [ProWritingAid](https://prowritingaid.com/) | 25+ reports on pacing, style, overused words | Free (500 words/check) |
 | Readability, not grammar | [Hemingway Editor](https://hemingwayapp.com/) | Color-coded hard sentences, passive voice, grade level | Free (web) |
 | Essays & journal papers | [Trinka](https://www.trinka.ai/) / [Writefull](https://www.writefull.com/) | Academic tone and journal style guides | Free tiers |
-| Something already on your machine | [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor) / Google Docs | Built into Edge/Chrome and Docs | Free |
+| Something already on your machine | [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor) / Google Docs / [Apple Writing Tools](https://support.apple.com/guide/mac-help/writing-tools-write-improve-summarize-mchldcd6c260/mac) | Built into Edge/Chrome, Docs, and macOS/iOS | Free |
 
 **The $0 stack most people land on:** LanguageTool (grammar) + Hemingway (readability). Add Harper or a Refine-class app when the text can't leave your machine.
 
 ### How these compare with Grammarly
 
-| | Grammarly | This list's free picks |
-|---|---|---|
-| Price | Free basic plan; Pro ~$144/yr | Free tiers, open-source, or one-time ($29–39) |
-| Where text is processed | Grammarly cloud | Your choice: cloud, your own server, or on-device |
-| Languages | English-first; limited others | Up to 30+ (LanguageTool), 90+ claimed (system-wide AI apps) |
-| Works system-wide | Yes (desktop app) | Yes — the Refine-class section below |
-| Plagiarism | Pro only | Free basics: Quetext, PaperRater |
+| | Grammarly | Apple Writing Tools | This list's free picks |
+|---|---|---|---|
+| Price | Free basic plan; Pro ~$144/yr | Free (built into the OS) | Free tiers, open-source, or one-time ($29–39) |
+| Where text is processed | Grammarly cloud | On-device (Apple Intelligence) | Your choice: cloud, your own server, or on-device |
+| Devices | Mac, Windows, web, mobile | Mac, iPhone, iPad (Apple Intelligence models only) | Mac, Windows, Linux, web, mobile |
+| Languages | English-first; limited others | Supported Apple Intelligence languages/regions only | Up to 30+ (LanguageTool), 90+ claimed (system-wide AI apps) |
+| Works system-wide | Yes (desktop app) | Yes — most apps, incl. third-party | Yes — the Refine-class section below |
+| Rewrite tones | Pro (full-sentence rewrites) | Friendly / Professional / Concise built in | Varies: DeepL Write, Wordtune, Refine-class apps |
+| Plagiarism | Pro only | No | Free basics: Quetext, PaperRater |
+
+Apple Writing Tools is the baseline every Mac owner already has: if you have an Apple Intelligence device, try Proofread/Rewrite before installing anything. Its limits are hardware (recent devices only), language/region availability, and no plagiarism or team features — which is exactly where the Refine-class and checker sections below take over.
 
 ## Contents
 
@@ -138,6 +142,7 @@ Writing help already included in your browser, office suite, or OS.
 |---|---|---|---|
 | [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor) | Edge/Chrome users wanting built-in help — Writing assistant built into Microsoft Edge and available as a browser extension, with free basic spelling and grammar checks. | Free basic tier (Microsoft 365 upsell) | No |
 | [Google Docs spelling & grammar suggestions](https://support.google.com/docs/answer/57859) | Anyone already in Google Docs — Built-in spelling, grammar, and style suggestions in Google Docs (and Gmail), free with a Google account. | Free with Google account | No |
+| [Apple Writing Tools](https://support.apple.com/guide/mac-help/writing-tools-write-improve-summarize-mchldcd6c260/mac) | Built-in proofreading on Mac & iPhone — Built into macOS, iOS, and iPadOS with Apple Intelligence: proofread for grammar and spelling, rewrite in Friendly, Professional, or Concise tones, and summarize selected text in most apps. | Free with Apple Intelligence (supported devices) | No |
 | [LibreOffice Writer](https://www.libreoffice.org/) | Offline desktop documents, $0 — Free, open-source office suite whose Writer includes spell checking and can run LanguageTool and other grammar extensions offline on the desktop. | GPL / LGPL (free and open source) | Yes |
 | [ONLYOFFICE Docs](https://www.onlyoffice.com/) | Self-hosted Docs/Word alternative — Free office suite (desktop and self-hosted) with spell checking and plugin support, usable as a no-subscription Docs/Word alternative. | AGPL-3.0 (Community Edition) | Yes |
 
