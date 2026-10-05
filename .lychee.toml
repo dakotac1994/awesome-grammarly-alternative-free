@@ -1,0 +1,13 @@
+# lychee link-checker config
+# Pre-emptive excludes for sites known to block automated checks.
+exclude = [
+  "https://www.producthunt.com",
+  "https://www.microsoft.com",  # 403 to automated checks; live for humans
+  "quillbot\\.com",  # 403 to automated checks; live for humans
+  "reverso\\.net",  # unreachable from automated checkers; live for humans
+  "onlinecorrection\\.com",  # unreachable from automated checkers; live for humans
+  "slickwrite\\.com",  # unreachable from automated checkers; live for humans
+]
+# Be lenient with rate-limited hosts; retry before failing.
+max_retries = 3
+timeout = 30

@@ -1,0 +1,767 @@
+[
+  {
+    "name": "LanguageTool",
+    "org": "LanguageTool",
+    "category": "grammar-checkers",
+    "description": "Open-source writing assistant that checks grammar, spelling, punctuation, and style in 30+ languages via browser extensions, editor add-ons, and a web editor.",
+    "url": "https://languagetool.org/",
+    "license": "LGPL-2.1 (open-source core); freemium cloud",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "30+ languages",
+      "Browser extensions and Google Docs/Word add-ons",
+      "Free cloud tier with basic checks; Premium adds advanced style and larger texts",
+      "Self-hostable server (see Open Source section)"
+    ]
+  },
+  {
+    "name": "QuillBot",
+    "org": "QuillBot (Course Hero)",
+    "category": "grammar-checkers",
+    "description": "AI writing platform whose free Grammar Checker fixes grammar, spelling, and punctuation, alongside a paraphraser, summarizer, and citation generator.",
+    "url": "https://quillbot.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free grammar checker with no word limit for basic errors (vendor help center)",
+      "Paraphraser free up to 125 words in 2 modes",
+      "Advanced recommendations and tone insights are Premium",
+      "Browser extensions and Word/Google Docs integrations"
+    ]
+  },
+  {
+    "name": "ProWritingAid",
+    "org": "ProWritingAid",
+    "category": "grammar-checkers",
+    "description": "Writing editor with 25+ reports on grammar, style, readability, pacing, and overused words, aimed at long-form writers and authors.",
+    "url": "https://prowritingaid.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free: 500-word limit in Web Editor and browser extension",
+      "25+ writing reports on free tier (limits per day)",
+      "Premium removes word limits and adds integrations (Scrivener, Word, Google Docs)",
+      "Lifetime license offered on paid tiers"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "org": "Ginger Software",
+    "category": "grammar-checkers",
+    "description": "Grammar and spelling checker with sentence rephrasing, synonyms, translation, and a personal trainer for English learners.",
+    "url": "https://www.gingersoftware.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free basic grammar and spell check via browser extension and web",
+      "Sentence rephraser and synonyms",
+      "Premium adds unlimited checks and rephrasing",
+      "Windows, Mac, iOS, Android apps"
+    ]
+  },
+  {
+    "name": "Sapling",
+    "org": "Sapling.ai",
+    "category": "grammar-checkers",
+    "description": "AI writing assistant for customer-facing teams, with grammar and spelling checks, autocomplete, snippets, and CRM/helpdesk integrations.",
+    "url": "https://sapling.ai/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free tier for individuals with basic suggestions",
+      "Autocomplete and snippet macros for support teams",
+      "Integrations: Salesforce, Zendesk, Gmail, Outlook and more",
+      "Team style guides and analytics on paid plans"
+    ]
+  },
+  {
+    "name": "Linguix",
+    "org": "Linguix",
+    "category": "grammar-checkers",
+    "description": "AI writing assistant that checks grammar, punctuation, and style across the web, with paraphrasing and productivity stats.",
+    "url": "https://linguix.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free basic grammar, spelling, and style checks",
+      "Browser extension for Chrome, Edge, Firefox",
+      "Paraphrasing and shortcuts/snippets",
+      "Team style guides on paid plans"
+    ]
+  },
+  {
+    "name": "Scribens",
+    "org": "Scribens",
+    "category": "grammar-checkers",
+    "description": "Free web grammar, spelling, and punctuation checker for English and French with detailed explanations of each correction.",
+    "url": "https://www.scribens.com/",
+    "license": "Free (premium upsell)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free web checker, no account required",
+      "Explanations and grammar rules for each correction",
+      "English and French checkers",
+      "Premium removes ads and raises limits"
+    ]
+  },
+  {
+    "name": "Outwrite",
+    "org": "Outwrite",
+    "category": "grammar-checkers",
+    "description": "AI proofreader that checks spelling, grammar, style, and plagiarism, with paraphrasing and eloquence suggestions.",
+    "url": "https://www.outwrite.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free basic spelling and grammar checks",
+      "Paraphrasing and sentence rewriting on paid tiers",
+      "Plagiarism checker on paid tiers",
+      "Chrome extension and Word/Google Docs integrations"
+    ]
+  },
+  {
+    "name": "Wordvice AI",
+    "org": "Wordvice",
+    "category": "grammar-checkers",
+    "description": "AI proofreader and paraphraser aimed at academic and ESL writers, with proofreading modes for essays, research papers, and business documents.",
+    "url": "https://www.wordvice.ai/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free AI Proofreader with Light mode",
+      "Academic document types and modes",
+      "AI Paraphraser, Summarizer, Translator on the same account",
+      "Premium raises word limits and unlocks all modes"
+    ]
+  },
+  {
+    "name": "SentenceCheckup",
+    "org": "SentenceCheckup",
+    "category": "grammar-checkers",
+    "description": "Free web tool that checks sentences for grammar, spelling, punctuation, and word-choice errors and suggests rephrased alternatives.",
+    "url": "https://sentencecheckup.com/",
+    "license": "Free (ad-supported)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free, no signup",
+      "Sentence-level grammar and punctuation checks",
+      "Vocabulary and rephrasing suggestions",
+      "Web-only; paste text to check"
+    ]
+  },
+  {
+    "name": "TextGears",
+    "org": "TextGears",
+    "category": "grammar-checkers",
+    "description": "Grammar, spelling, and readability checking API with a free tier, for developers who want to embed proofreading in their own apps.",
+    "url": "https://textgears.com/",
+    "license": "Freemium API (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "API-first grammar and spell checking",
+      "Free API tier for low-volume use (see vendor pricing)",
+      "Readability scoring endpoint",
+      "SDKs and examples for common languages"
+    ]
+  },
+  {
+    "name": "Reverso Grammar Checker",
+    "org": "Reverso",
+    "category": "grammar-checkers",
+    "description": "Free spelling and grammar checker for English and French, integrated with Reverso's dictionary, conjugation, and translation tools.",
+    "url": "https://www.reverso.net/spell-checker/english-spelling-grammar/",
+    "license": "Free (ad-supported)",
+    "open_source": false,
+    "verified": false,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free web checker for English and French",
+      "One-click corrections with examples in context",
+      "Integrated dictionary, synonyms, and conjugation",
+      "Could not be verified from this build environment (site unreachable); flagged honestly"
+    ]
+  },
+  {
+    "name": "OnlineCorrection.com",
+    "org": "OnlineCorrection.com",
+    "category": "grammar-checkers",
+    "description": "Free web page that checks English text for spelling, grammar, and style errors and suggests corrections inline.",
+    "url": "https://www.onlinecorrection.com/",
+    "license": "Free (ad-supported)",
+    "open_source": false,
+    "verified": false,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free, no signup",
+      "Spelling, grammar, and basic style checks",
+      "Autocorrect view of the corrected text",
+      "Could not be verified from this build environment (site unreachable); flagged honestly"
+    ]
+  },
+  {
+    "name": "EasyBib Grammar Checker",
+    "org": "EasyBib (Chegg)",
+    "category": "grammar-checkers",
+    "description": "Free grammar and plagiarism checker from the citation-generator service, aimed at students writing essays and papers.",
+    "url": "https://www.easybib.com/grammar-and-plagiarism",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free grammar checker for essays",
+      "Plagiarism checker (limited on free tier)",
+      "Citation generator (APA, MLA, Chicago) on the same site",
+      "Premium (EasyBib Plus) removes limits"
+    ]
+  },
+  {
+    "name": "DeepL Write",
+    "org": "DeepL",
+    "category": "grammar-checkers",
+    "description": "AI writing companion that fixes grammar and punctuation and offers alternative phrasing, style, and tone suggestions in 9 languages.",
+    "url": "https://www.deepl.com/en/write",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free web tool, no account needed for basic use",
+      "Grammar fixes plus phrasing/tone alternatives",
+      "9 languages (English, German, French, Spanish and more)",
+      "Write Pro adds unlimited suggestions and enterprise security"
+    ]
+  },
+  {
+    "name": "Wordtune",
+    "org": "AI21 Labs",
+    "category": "grammar-checkers",
+    "description": "AI rewriting assistant that suggests alternative phrasings, tone changes (formal/casual), and shorten/expand rewrites for selected sentences.",
+    "url": "https://www.wordtune.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free tier with daily rewrite quota",
+      "Rewrite, formal/casual tone, shorten/expand",
+      "Chrome extension and Word/Google Docs integrations",
+      "Premium raises quotas and adds more features"
+    ]
+  },
+  {
+    "name": "Harper",
+    "org": "Automattic",
+    "category": "open-source",
+    "description": "Offline, privacy-first English grammar checker written in Rust; runs locally in browsers, VS Code, Obsidian, and other editors in milliseconds.",
+    "url": "https://github.com/Automattic/harper",
+    "license": "Apache-2.0",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Runs 100% locally; no text leaves the device",
+      "Browser extensions, VS Code, Obsidian, Neovim integrations",
+      "Tiny memory footprint vs LanguageTool (vendor claim)",
+      "English only (US/UK/IN and more dialects)"
+    ]
+  },
+  {
+    "name": "LanguageTool Server (self-hosted)",
+    "org": "LanguageTool",
+    "category": "open-source",
+    "description": "Self-hosted LanguageTool server: the open-source core grammar checker you run on your own infrastructure, with no per-request limits.",
+    "url": "https://github.com/languagetool-org/languagetool",
+    "license": "LGPL-2.1",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free and unlimited when self-hosted",
+      "30+ languages with rule-based checks",
+      "Browser extension can be pointed at your own server",
+      "Premium cloud rules are not included in the OSS server"
+    ]
+  },
+  {
+    "name": "Vale",
+    "org": "Vale (vale-cli)",
+    "category": "open-source",
+    "description": "Command-line prose linter that checks Markdown and other docs against style-guide rules (Microsoft, Google, write-good, proselint and custom rules).",
+    "url": "https://github.com/vale-cli/vale",
+    "license": "MIT",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "CLI linter for docs-as-code workflows",
+      "Extensible rule packs (Microsoft, Google, Joblint and more)",
+      "Works offline; config in .vale.ini",
+      "Checks style rules, not deep grammar"
+    ]
+  },
+  {
+    "name": "Grammalecte",
+    "org": "Grammalecte",
+    "category": "open-source",
+    "description": "French grammar, spelling, and typography checker for LibreOffice, Firefox, Thunderbird, and the command line.",
+    "url": "https://grammalecte.net/",
+    "license": "GPL-3.0",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "French grammar and conjugation checking",
+      "LibreOffice, Firefox, Thunderbird extensions",
+      "Offline and privacy-friendly",
+      "French only"
+    ]
+  },
+  {
+    "name": "LTeX+",
+    "org": "ltex-plus",
+    "category": "open-source",
+    "description": "Grammar and spell checking for LaTeX and Markdown in VS Code and other LSP editors, powered by LanguageTool, with offline support.",
+    "url": "https://github.com/ltex-plus/ltex-ls-plus",
+    "license": "EPL-2.0 / MPL-2.0 (see repo)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "LaTeX, Markdown, Org, reStructuredText support",
+      "VS Code extension and LSP server for other editors",
+      "Can run LanguageTool offline",
+      "Great for papers and theses written in LaTeX"
+    ]
+  },
+  {
+    "name": "TeXidote",
+    "org": "Sylvain Hallé",
+    "category": "open-source",
+    "description": "Command-line grammar, spelling, and style checker for LaTeX documents that strips LaTeX commands before checking the prose.",
+    "url": "https://github.com/sylvainhalle/textidote",
+    "license": "GPL-3.0",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "LaTeX-aware checking (ignores commands and math)",
+      "Grammar, spelling, and style suggestions",
+      "HTML and plain-text reports",
+      "Java CLI; pairs well with CI for papers"
+    ]
+  },
+  {
+    "name": "write-good",
+    "org": "btford",
+    "category": "open-source",
+    "description": "Naive JavaScript linter for English prose that flags passive voice, weasel words, lexical illusions, and overly complex phrasing.",
+    "url": "https://github.com/btford/write-good",
+    "license": "MIT",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Node.js CLI and library",
+      "Flags passive voice, weasel words, adverbs",
+      "Editor integrations (VS Code, Vim, Emacs)",
+      "Heuristic style checks, not a grammar engine"
+    ]
+  },
+  {
+    "name": "alex",
+    "org": "get-alex",
+    "category": "open-source",
+    "description": "Catch insensitive, inconsiderate writing: a Markdown prose linter that flags gendered, polarizing, race-related, and otherwise exclusionary language.",
+    "url": "https://github.com/get-alex/alex",
+    "license": "MIT",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Inclusive-language checking for Markdown",
+      "CLI and remark plugin; editor integrations",
+      "Configurable allow-lists per project",
+      "Opinionated by design; tune rules to your style guide"
+    ]
+  },
+  {
+    "name": "proselint",
+    "org": "amperser",
+    "category": "open-source",
+    "description": "Linter for English prose aggregating advice from classic style guides (Strunk & White, Pinker, Butterick and others) into automated checks.",
+    "url": "https://github.com/amperser/proselint",
+    "license": "BSD-3-Clause (see repo)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Python CLI linter",
+      "Checks clichés, jargon, redundancy, typography and more",
+      "Editor integrations and API mode",
+      "Suggestions cite the style-guide source"
+    ]
+  },
+  {
+    "name": "RedPen",
+    "org": "redpen-cc",
+    "category": "open-source",
+    "description": "Document checker for English and Japanese that validates sentence length, terminology consistency, symbols, and expression styles.",
+    "url": "https://github.com/redpen-cc/redpen",
+    "license": "Apache-2.0",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Java CLI for Markdown, LaTeX, AsciiDoc, plain text",
+      "Terminology and style consistency validators",
+      "Configurable validation rules per project",
+      "Popular for technical documentation in EN/JA"
+    ]
+  },
+  {
+    "name": "cspell",
+    "org": "Streetside Software",
+    "category": "open-source",
+    "description": "Spell checker for code and docs that understands camelCase, snake_case, and technical vocabularies, with custom dictionaries per project.",
+    "url": "https://github.com/streetsidesoftware/cspell",
+    "license": "MIT",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Spell checks source code and Markdown",
+      "Splits compound identifiers correctly",
+      "VS Code extension (Code Spell Checker) and CLI",
+      "Spelling only; pair with Vale/Harper for style"
+    ]
+  },
+  {
+    "name": "typos",
+    "org": "crate-ci",
+    "category": "open-source",
+    "description": "Fast Rust spell checker for source code and docs that finds and fixes typos with low false positives, designed for CI.",
+    "url": "https://github.com/crate-ci/typos",
+    "license": "MIT OR Apache-2.0",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Very fast codebase-wide typo scanning",
+      "Auto-fix mode and CI-friendly output",
+      "Per-file-type dictionaries and config",
+      "Spelling only; not a grammar checker"
+    ]
+  },
+  {
+    "name": "Hemingway Editor",
+    "org": "Hemingway",
+    "category": "readability",
+    "description": "Readability editor that highlights complex sentences, passive voice, adverbs, and hard-to-read phrases, with a readability grade score.",
+    "url": "https://hemingwayapp.com/",
+    "license": "Free web version; paid desktop/Plus",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free full web editor, no account required",
+      "Color-coded highlights by issue type",
+      "Readability grade and word count",
+      "Desktop app (one-time) adds offline use and export; Plus adds AI fixes"
+    ]
+  },
+  {
+    "name": "Slick Write",
+    "org": "Slick Write",
+    "category": "readability",
+    "description": "Free web editor that checks grammar, flow, passive voice, adverb use, and readability statistics for pasted text.",
+    "url": "https://www.slickwrite.com/",
+    "license": "Free (ad-supported)",
+    "open_source": false,
+    "verified": false,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free, no signup",
+      "Grammar, style, and flow analysis tabs",
+      "Readability statistics and word-frequency views",
+      "Could not be verified from this build environment (site unreachable); flagged honestly"
+    ]
+  },
+  {
+    "name": "Readable",
+    "org": "Readable (ConnectedText)",
+    "category": "readability",
+    "description": "Readability scoring tool that grades text with Flesch-Kincaid, Gunning Fog, SMOG and other formulas, plus keyword and sentiment analysis.",
+    "url": "https://readable.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free readability score for pasted text/URLs",
+      "Multiple readability formulas side by side",
+      "Premium adds bulk scoring and monitoring",
+      "Good for content teams targeting a reading level"
+    ]
+  },
+  {
+    "name": "WebFX Readability Tool",
+    "org": "WebFX",
+    "category": "readability",
+    "description": "Free web page that scores the readability of pasted text or a URL with Flesch-Kincaid, Gunning Fog, SMOG, Coleman-Liau, and ARI scores.",
+    "url": "https://www.webfx.com/tools/read-able/",
+    "license": "Free",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free, no signup",
+      "Five readability formulas in one report",
+      "Test by text, URL, or uploaded document",
+      "One-off scoring; no editing suggestions"
+    ]
+  },
+  {
+    "name": "Datayze Readability Analyzer",
+    "org": "Datayze",
+    "category": "readability",
+    "description": "Free readability analyzer that scores text with several formulas and highlights hard sentences, passive voice, and complex words.",
+    "url": "https://datayze.com/readability-analyzer",
+    "license": "Free (ad-supported)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free, no signup",
+      "Multiple readability scores plus sentence highlights",
+      "Word and sentence statistics",
+      "Ad-supported; web-only"
+    ]
+  },
+  {
+    "name": "textstat",
+    "org": "textstat contributors",
+    "category": "readability",
+    "description": "Python library for computing readability statistics (Flesch-Kincaid, Gunning Fog, SMOG, Coleman-Liau, ARI, Dale-Chall and more) in your own code.",
+    "url": "https://github.com/textstat/textstat",
+    "license": "MIT",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "pip-installable readability library",
+      "13+ readability formulas, EN plus other languages",
+      "Lexicon and sentence/word counts",
+      "Library only; no UI or grammar checking"
+    ]
+  },
+  {
+    "name": "Trinka",
+    "org": "Trinka (Enago)",
+    "category": "academic",
+    "description": "AI writing assistant built for academic and technical writing, checking grammar, tone, and journal style-guide consistency (AMA, APA, AGU and more).",
+    "url": "https://www.trinka.ai/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free tier with monthly grammar-check credits",
+      "Academic tone and style-guide checks",
+      "Journal finder and citation tools on the platform",
+      "Browser extension and Word add-in"
+    ]
+  },
+  {
+    "name": "Writefull",
+    "org": "Writefull",
+    "category": "academic",
+    "description": "AI academic writing tool trained on research papers, offering sentence revising, paraphrasing, and title/abstract generation in Word and Overleaf.",
+    "url": "https://www.writefull.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free tier in Word and Overleaf integrations",
+      "Revise, paraphrase, and generate academic phrases",
+      "Language models trained on academic texts (vendor claim)",
+      "Premium unlocks full revising quotas"
+    ]
+  },
+  {
+    "name": "Paperpal",
+    "org": "Paperpal (Cactus Communications)",
+    "category": "academic",
+    "description": "AI academic writing assistant that checks language, suggests edits, and helps prepare manuscripts for journal submission.",
+    "url": "https://paperpal.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free tier with language and grammar suggestions",
+      "Submission-readiness checks",
+      "Word add-in and web editor",
+      "Prime tier adds unlimited suggestions and plagiarism check"
+    ]
+  },
+  {
+    "name": "PaperRater",
+    "org": "PaperRater",
+    "category": "academic",
+    "description": "Free student tool that checks grammar, spelling, word choice, and plagiarism, with readability scoring for essays and papers.",
+    "url": "https://www.paperrater.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free grammar, spelling, and vocabulary checks",
+      "Plagiarism detection (limited on free tier)",
+      "Readability and grade-level feedback",
+      "Premium removes ads and raises limits"
+    ]
+  },
+  {
+    "name": "Virtual Writing Tutor",
+    "org": "Virtual Writing Tutor",
+    "category": "academic",
+    "description": "Free ESL-focused checker that counts words, checks grammar, spelling, and vocabulary, and gives targeted feedback for English learners.",
+    "url": "https://virtualwritingtutor.com/",
+    "license": "Free",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free, no signup required for basic checks",
+      "ESL error feedback and vocabulary profiling",
+      "Word counter and readability scores",
+      "Built by ESL teachers; donation-supported"
+    ]
+  },
+  {
+    "name": "Scribbr Grammar Checker",
+    "org": "Scribbr",
+    "category": "academic",
+    "description": "Free online grammar checker from the academic proofreading service, checking grammar, spelling, and punctuation in essays and theses.",
+    "url": "https://www.scribbr.com/grammar-checker/",
+    "license": "Free tool (paid proofreading upsell)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free web grammar checker, no account required",
+      "English, German, Dutch, French, Spanish and more",
+      "One-click fixes in the web editor",
+      "Human proofreading is the paid upsell"
+    ]
+  },
+  {
+    "name": "Quetext",
+    "org": "Quetext",
+    "category": "academic",
+    "description": "Plagiarism checker with a free basic plan, plus grammar checking and citation assistance for students and teachers.",
+    "url": "https://www.quetext.com/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free basic plagiarism checks (limited words)",
+      "Grammar checker and citation generator",
+      "DeepSearch plagiarism technology (vendor claim)",
+      "Premium raises word limits and adds reports"
+    ]
+  },
+  {
+    "name": "Microsoft Editor",
+    "org": "Microsoft",
+    "category": "built-in-free",
+    "description": "Writing assistant built into Microsoft Edge and available as a browser extension, with free basic spelling and grammar checks.",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-editor",
+    "license": "Free basic tier (Microsoft 365 upsell)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free spelling and grammar in Edge and via Chrome extension",
+      "Clarity, conciseness, and vocabulary refinements need Microsoft 365",
+      "Works in Word for the web with a Microsoft account",
+      "Free tier is the honest Grammarly replacement for basic checks"
+    ]
+  },
+  {
+    "name": "Google Docs spelling & grammar suggestions",
+    "org": "Google",
+    "category": "built-in-free",
+    "description": "Built-in spelling, grammar, and style suggestions in Google Docs (and Gmail), free with a Google account.",
+    "url": "https://support.google.com/docs/answer/57859",
+    "license": "Free with Google account",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Grammar and spelling underlines in Docs, Sheets, Slides",
+      "Style suggestions (Docs) on supported accounts",
+      "No install; already where many people write",
+      "Fewer style features than dedicated checkers"
+    ]
+  },
+  {
+    "name": "LibreOffice Writer",
+    "org": "The Document Foundation",
+    "category": "built-in-free",
+    "description": "Free, open-source office suite whose Writer includes spell checking and can run LanguageTool and other grammar extensions offline on the desktop.",
+    "url": "https://www.libreoffice.org/",
+    "license": "GPL / LGPL (free and open source)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Completely free desktop word processor",
+      "Built-in spellcheck with dictionaries for many languages",
+      "LanguageTool extension adds grammar checking",
+      "No account, works offline"
+    ]
+  },
+  {
+    "name": "ONLYOFFICE Docs",
+    "org": "ONLYOFFICE",
+    "category": "built-in-free",
+    "description": "Free office suite (desktop and self-hosted) with spell checking and plugin support, usable as a no-subscription Docs/Word alternative.",
+    "url": "https://www.onlyoffice.com/",
+    "license": "AGPL-3.0 (Community Edition)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free desktop editors for Windows, Mac, Linux",
+      "Spellcheck and LanguageTool/AI plugins",
+      "Self-hostable Docs server for teams",
+      "Grammar depth depends on plugins configured"
+    ]
+  }
+]
