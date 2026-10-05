@@ -37,7 +37,7 @@ jobs:
           required = {"name", "org", "category", "description", "url",
                       "license", "open_source", "verified", "last_verified", "features", "best_for", "languages", "data_processing"}
           categories = {"system-wide", "augmenting-writing", "grammar-checkers", "open-source", "readability",
-                        "academic", "built-in-free"}
+                        "academic", "built-in-free", "dictation"}
           path = "data/tools.json"
           data = json.load(open(path))
           assert isinstance(data, list) and data, f"{path} must be a non-empty list"
