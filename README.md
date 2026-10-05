@@ -19,6 +19,8 @@
 
 **The $0 stack most people land on:** LanguageTool (grammar) + Hemingway (readability). Add Harper or a Refine-class app when the text can't leave your machine.
 
+> 🔎 **Prefer to filter instead of scroll?** The [interactive picker](https://muse.ai/s/free-grammarly-alternatives-picker-xui6igxjcxptce) runs over this catalog with privacy, language, category, and cost filters — plus the privacy/language matrices and the $0 stacks below as starting points.
+
 ### How these compare with Grammarly
 
 | | Grammarly | Apple Writing Tools | This list's free picks |
