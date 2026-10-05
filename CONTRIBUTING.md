@@ -23,6 +23,8 @@ Thanks for helping keep this the most honest directory of free Grammarly alterna
 | `category` | string | `system-wide` / `augmenting-writing` / `grammar-checkers` / `open-source` / `readability` / `academic` / `built-in-free` |
 | `description` | string | one sentence |
 | `best_for` | string | 3–7 words: the writing job this tool wins at |
+| `languages` | string | language coverage, e.g. `English`, `30+ languages` — vendor-stated only |
+| `data_processing` | string | `On-device` / `Self-hosted` / `BYOK` / `Vendor cloud` (or an honest combination) |
 | `url` | string | official https:// URL |
 | `license` | string | exact OSS license, or free model in a few words (e.g. `Freemium (free tier)`) |
 | `open_source` | bool | `true` / `false` |

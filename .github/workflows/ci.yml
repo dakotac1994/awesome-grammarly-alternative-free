@@ -35,7 +35,7 @@ jobs:
           import json
 
           required = {"name", "org", "category", "description", "url",
-                      "license", "open_source", "verified", "last_verified", "features", "best_for"}
+                      "license", "open_source", "verified", "last_verified", "features", "best_for", "languages", "data_processing"}
           categories = {"system-wide", "augmenting-writing", "grammar-checkers", "open-source", "readability",
                         "academic", "built-in-free"}
           path = "data/tools.json"

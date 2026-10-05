@@ -10,6 +10,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "30+ languages",
+    "data_processing": "Vendor cloud or self-hosted",
     "features": [
       "30+ languages",
       "Browser extensions and Google Docs/Word add-ons",
@@ -28,6 +30,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English (100+ for plagiarism/citations)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free grammar checker with no word limit for basic errors (vendor help center)",
       "Paraphraser free up to 125 words in 2 modes",
@@ -46,6 +50,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free: 500-word limit in Web Editor and browser extension",
       "25+ writing reports on free tier (limits per day)",
@@ -64,6 +70,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English (40+ translation)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free basic grammar and spell check via browser extension and web",
       "Sentence rephraser and synonyms",
@@ -82,6 +90,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free tier for individuals with basic suggestions",
       "Autocomplete and snippet macros for support teams",
@@ -100,6 +110,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free basic grammar, spelling, and style checks",
       "Browser extension for Chrome, Edge, Firefox",
@@ -118,6 +130,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English, French",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free web checker, no account required",
       "Explanations and grammar rules for each correction",
@@ -136,6 +150,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free basic spelling and grammar checks",
       "Paraphrasing and sentence rewriting on paid tiers",
@@ -154,6 +170,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free AI Proofreader with Light mode",
       "Academic document types and modes",
@@ -172,6 +190,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free, no signup",
       "Sentence-level grammar and punctuation checks",
@@ -190,6 +210,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual API (see vendor)",
+    "data_processing": "Vendor cloud (API)",
     "features": [
       "API-first grammar and spell checking",
       "Free API tier for low-volume use (see vendor pricing)",
@@ -208,6 +230,8 @@
     "open_source": false,
     "verified": false,
     "last_verified": "2026-10-04",
+    "languages": "English, French",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free web checker for English and French",
       "One-click corrections with examples in context",
@@ -226,6 +250,8 @@
     "open_source": false,
     "verified": false,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free, no signup",
       "Spelling, grammar, and basic style checks",
@@ -244,6 +270,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free grammar checker for essays",
       "Plagiarism checker (limited on free tier)",
@@ -262,6 +290,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "9 languages",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free web tool, no account needed for basic use",
       "Grammar fixes plus phrasing/tone alternatives",
@@ -280,6 +310,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English (multilingual input)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free tier with daily rewrite quota",
       "Rewrite, formal/casual tone, shorten/expand",
@@ -298,6 +330,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "On-device",
     "features": [
       "Runs 100% locally; no text leaves the device",
       "Browser extensions, VS Code, Obsidian, Neovim integrations",
@@ -316,6 +350,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "30+ languages",
+    "data_processing": "Self-hosted (your machine)",
     "features": [
       "Free and unlimited when self-hosted",
       "30+ languages with rule-based checks",
@@ -334,6 +370,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic (style rules)",
+    "data_processing": "On-device",
     "features": [
       "CLI linter for docs-as-code workflows",
       "Extensible rule packs (Microsoft, Google, Joblint and more)",
@@ -352,6 +390,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "French",
+    "data_processing": "On-device",
     "features": [
       "French grammar and conjugation checking",
       "LibreOffice, Firefox, Thunderbird extensions",
@@ -370,6 +410,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "30+ (via LanguageTool)",
+    "data_processing": "On-device (local LanguageTool)",
     "features": [
       "LaTeX, Markdown, Org, reStructuredText support",
       "VS Code extension and LSP server for other editors",
@@ -388,6 +430,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English, French",
+    "data_processing": "On-device",
     "features": [
       "LaTeX-aware checking (ignores commands and math)",
       "Grammar, spelling, and style suggestions",
@@ -406,6 +450,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "On-device",
     "features": [
       "Node.js CLI and library",
       "Flags passive voice, weasel words, adverbs",
@@ -424,6 +470,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "On-device",
     "features": [
       "Inclusive-language checking for Markdown",
       "CLI and remark plugin; editor integrations",
@@ -442,6 +490,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "On-device",
     "features": [
       "Python CLI linter",
       "Checks clichés, jargon, redundancy, typography and more",
@@ -460,6 +510,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English, Japanese",
+    "data_processing": "On-device",
     "features": [
       "Java CLI for Markdown, LaTeX, AsciiDoc, plain text",
       "Terminology and style consistency validators",
@@ -478,6 +530,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic (dictionaries)",
+    "data_processing": "On-device",
     "features": [
       "Spell checks source code and Markdown",
       "Splits compound identifiers correctly",
@@ -496,6 +550,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic (dictionaries)",
+    "data_processing": "On-device",
     "features": [
       "Very fast codebase-wide typo scanning",
       "Auto-fix mode and CI-friendly output",
@@ -514,6 +570,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free full web editor, no account required",
       "Color-coded highlights by issue type",
@@ -532,6 +590,8 @@
     "open_source": false,
     "verified": false,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free, no signup",
       "Grammar, style, and flow analysis tabs",
@@ -550,6 +610,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English (formulas vary)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free readability score for pasted text/URLs",
       "Multiple readability formulas side by side",
@@ -568,6 +630,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free, no signup",
       "Five readability formulas in one report",
@@ -586,6 +650,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free, no signup",
       "Multiple readability scores plus sentence highlights",
@@ -604,6 +670,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English + other languages",
+    "data_processing": "Vendor cloud",
     "features": [
       "pip-installable readability library",
       "13+ readability formulas, EN plus other languages",
@@ -622,6 +690,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free tier with monthly grammar-check credits",
       "Academic tone and style-guide checks",
@@ -640,6 +710,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free tier in Word and Overleaf integrations",
       "Revise, paraphrase, and generate academic phrases",
@@ -658,6 +730,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free tier with language and grammar suggestions",
       "Submission-readiness checks",
@@ -676,6 +750,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free grammar, spelling, and vocabulary checks",
       "Plagiarism detection (limited on free tier)",
@@ -694,6 +770,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English (ESL)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free, no signup required for basic checks",
       "ESL error feedback and vocabulary profiling",
@@ -712,6 +790,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English, German, Dutch, French, Spanish",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free web grammar checker, no account required",
       "English, German, Dutch, French, Spanish and more",
@@ -730,6 +810,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "100+ (plagiarism)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free basic plagiarism checks (limited words)",
       "Grammar checker and citation generator",
@@ -748,6 +830,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (spelling varies)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free spelling and grammar in Edge and via Chrome extension",
       "Clarity, conciseness, and vocabulary refinements need Microsoft 365",
@@ -766,6 +850,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (varies by language)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Grammar and spelling underlines in Docs, Sheets, Slides",
       "Style suggestions (Docs) on supported accounts",
@@ -784,6 +870,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (dictionaries)",
+    "data_processing": "On-device",
     "features": [
       "Completely free desktop word processor",
       "Built-in spellcheck with dictionaries for many languages",
@@ -802,6 +890,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (dictionaries)",
+    "data_processing": "On-device or self-hosted",
     "features": [
       "Free desktop editors for Windows, Mac, Linux",
       "Spellcheck and LanguageTool/AI plugins",
@@ -820,6 +910,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "36 languages / 59 varieties",
+    "data_processing": "On-device or BYOK",
     "features": [
       "Local on-device models (Gemma/Qwen class) plus optional BYOK (OpenAI, Anthropic, Gemini, OpenRouter, Ollama)",
       "Inline suggestions in Mail, Slack, browsers and native apps; Floating Editor on a global shortcut",
@@ -841,6 +933,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "500+ (translation; checking varies)",
+    "data_processing": "BYOK or on-device (local providers)",
     "features": [
       "$29 one-time license per vendor site; optional hosted Gateway add-on",
       "Providers: your own API keys, Ollama, LM Studio, Apple Intelligence (offline capable)",
@@ -862,6 +956,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (model-dependent)",
+    "data_processing": "On-device or BYOK",
     "features": [
       "Local Hugging Face models (T5/Gemma/Llama class) or BYOK Claude, OpenAI, Gemini",
       "Streaming preview of corrections; no accounts, no subscriptions",
@@ -883,6 +979,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (model-dependent)",
+    "data_processing": "On-device",
     "features": [
       "Corrections and rewrites run on the Mac Neural Engine; works offline (vendor claim)",
       "One global hotkey fixes or rewrites selected text in any app",
@@ -904,6 +1002,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (Gemini)",
+    "data_processing": "BYOK (your Gemini key)",
     "features": [
       "Underlines errors on any website; fixes applied without breaking rich editors",
       "Uses your own Gemini API key — no account, no tracking, no subscription",
@@ -925,6 +1025,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (model-dependent)",
+    "data_processing": "On-device or BYOK",
     "features": [
       "Hotkey popup in any Windows app: proofread, rewrite (tones), summarize, tables/lists",
       "Local models or BYOK (OpenAI-compatible, Gemini and more)",
@@ -946,6 +1048,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual",
+    "data_processing": "Vendor cloud",
     "features": [
       "System-wide super-command bar in any Mac app",
       "Rewrite tones, smart replies, summarization; personal knowledge bases",
@@ -967,6 +1071,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (40+ keyboards)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Custom keyboard (iOS/Android) plus desktop/browser writing assistant",
       "Real-time grammar correction and multilingual prediction",
@@ -988,6 +1094,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual",
+    "data_processing": "On-device",
     "features": [
       "100% on-device (llama.cpp + Gemma 4); works offline, no account required",
       "Free plan after 30-day Pro trial; Plus $8/mo, Pro $12/mo per vendor press kit",
@@ -1009,6 +1117,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual",
+    "data_processing": "BYOK / vendor cloud",
     "features": [
       "System-wide shortcuts in 300+ Mac apps (vendor claim)",
       "60+ tools: fix, rewrite, translate, summarize, tone",
@@ -1030,6 +1140,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (model-dependent)",
+    "data_processing": "BYOK",
     "features": [
       "Hotkey actions on selected text in any Mac app",
       "Bring your own OpenAI/Anthropic key; no subscription to Kerlig itself",
@@ -1051,6 +1163,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (model-dependent)",
+    "data_processing": "BYOK or on-device (local models)",
     "features": [
       "Inline AI commands in any app plus a chat window",
       "BYOK: OpenAI, Anthropic, Gemini, local models via Ollama and more",
@@ -1072,6 +1186,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Apple Intelligence languages/regions",
+    "data_processing": "On-device (Apple Intelligence)",
     "features": [
       "Proofread checks grammatical and spelling errors, with explanations for each change",
       "Rewrite in Friendly, Professional, or Concise tones, or describe your own change",
@@ -1090,6 +1206,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "On-device",
     "features": [
       "100% local, no tracking; Windows, macOS, Linux",
       "Triggers, regex triggers, forms, shell/script expansions",
@@ -1108,6 +1226,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "On-device",
     "features": [
       "Combo triggers expand in nearly any Windows app",
       "Snippet groups, variables (date/time, clipboard), cursor positioning",
@@ -1126,6 +1246,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "Vendor cloud",
     "features": [
       "Free plan for personal snippets in Chrome",
       "Form fields, dropdowns, dates, and calculations inside snippets",
@@ -1144,6 +1266,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "On-device (Pro cloud sync optional)",
     "features": [
       "Keyword-triggered expansion in any app",
       "Dynamic placeholders: date, time, clipboard, cursor position",
@@ -1162,6 +1286,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English + select languages",
+    "data_processing": "Vendor cloud",
     "features": [
       "Tab-to-accept phrase predictions in Gmail on web and mobile",
       "Personalized suggestions based on your writing style (opt-out in Settings)",
@@ -1180,6 +1306,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Multilingual (300+ keyboards claimed)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Learns your words and phrases for prediction and autocorrect",
       "AI-powered rewrite and tone adjustment on mobile",
@@ -1198,6 +1326,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "English (AI varies)",
+    "data_processing": "Vendor cloud",
     "features": [
       "Continue/rewrite/brainstorm inside the document, not a chatbot tab",
       "Version history, comments, and collaboration",
@@ -1216,6 +1346,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "On-device",
     "features": [
       "System-wide phrase insertion with fill-in forms and macros",
       "Clipboard manager and text prediction features",
@@ -1234,6 +1366,8 @@
     "open_source": false,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "On-device (optional cloud sync)",
     "features": [
       "Abbreviation expansion for text, images, and rich content",
       "Date/time math, clipboard and field placeholders",
@@ -1252,6 +1386,8 @@
     "open_source": true,
     "verified": true,
     "last_verified": "2026-10-04",
+    "languages": "Language-agnostic",
+    "data_processing": "On-device",
     "features": [
       "Hotstrings: type an abbreviation, get the full text, in any app",
       "Full scripting when snippets need logic, GUIs, or automation",

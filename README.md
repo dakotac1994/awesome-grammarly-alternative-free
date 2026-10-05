@@ -33,6 +33,27 @@
 
 Apple Writing Tools is the baseline every Mac owner already has: if you have an Apple Intelligence device, try Proofread/Rewrite before installing anything. Its limits are hardware (recent devices only), language/region availability, and no plagiarism or team features — which is exactly where the Refine-class and checker sections below take over.
 
+### Language coverage at a glance
+
+| Coverage | Tools |
+|---|---|
+| **30+ languages** | [LanguageTool](https://languagetool.org/), [LanguageTool Server (self-hosted)](https://github.com/languagetool-org/languagetool), [LTeX+](https://github.com/ltex-plus/ltex-ls-plus), [Refine](https://refine.sh/) |
+| **Multilingual AI / model-dependent** | [DeepL Write](https://www.deepl.com/en/write), [Quetext](https://www.quetext.com/), [TextGears](https://textgears.com/), [Typewise](https://www.typewise.app/), [Cotypist](https://cotypist.app/), [GhostEdit](https://github.com/nareshnavinash/GhostEdit), [GrammarGem](https://www.grammargem.com/), [GemType](https://github.com/riponcm/GemType), [WritingTools](https://github.com/theJayTea/WritingTools), [Elephas](https://elephas.app/), [Fixkey](https://fixkey.ai/), [Kerlig](https://www.kerlig.com/), [BoltAI](https://boltai.com/), [Microsoft SwiftKey](https://www.microsoft.com/en-us/swiftkey), [RewriteBar](https://rewritebar.com/), [Wordtune](https://www.wordtune.com/), [QuillBot](https://quillbot.com/) |
+| **English + another language / selected languages** | [Scribens](https://www.scribens.com/), [Reverso Grammar Checker](https://www.reverso.net/spell-checker/english-spelling-grammar/), [TeXidote](https://github.com/sylvainhalle/textidote), [Scribbr Grammar Checker](https://www.scribbr.com/grammar-checker/), [Gmail Smart Compose](https://workspace.google.com/products/gmail/), [Apple Writing Tools](https://support.apple.com/guide/mac-help/writing-tools-write-improve-summarize-mchldcd6c260/mac), [Ginger](https://www.gingersoftware.com/) |
+| **English only / English-first** | [Harper](https://github.com/Automattic/harper), [ProWritingAid](https://prowritingaid.com/), [Sapling](https://sapling.ai/), [Linguix](https://linguix.com/), [Outwrite](https://www.outwrite.com/), [Wordvice AI](https://www.wordvice.ai/), [SentenceCheckup](https://sentencecheckup.com/), [OnlineCorrection.com](https://www.onlinecorrection.com/), [EasyBib Grammar Checker](https://www.easybib.com/grammar-and-plagiarism), [write-good](https://github.com/btford/write-good), [alex](https://github.com/get-alex/alex), [proselint](https://github.com/amperser/proselint), [Hemingway Editor](https://hemingwayapp.com/), [Slick Write](https://www.slickwrite.com/), [Readable](https://readable.com/), [WebFX Readability Tool](https://www.webfx.com/tools/read-able/), [Datayze Readability Analyzer](https://datayze.com/readability-analyzer), [Trinka](https://www.trinka.ai/), [Writefull](https://www.writefull.com/), [Paperpal](https://paperpal.com/), [PaperRater](https://www.paperrater.com/), [Virtual Writing Tutor](https://virtualwritingtutor.com/), [Lex](https://lex.page/) |
+| **Language-agnostic (snippets, spelling dictionaries, style rules)** | [Vale](https://github.com/vale-cli/vale), [cspell](https://github.com/streetsidesoftware/cspell), [typos](https://github.com/crate-ci/typos), [textstat](https://github.com/textstat/textstat), [Espanso](https://github.com/espanso/espanso), [Beeftext](https://github.com/xmichelo/Beeftext), [Text Blaze](https://blaze.today/), [Raycast Snippets](https://www.raycast.com/core-features/snippets), [PhraseExpress](https://www.phraseexpress.com/), [aText](https://www.trankynam.com/atext/), [AutoHotkey](https://www.autohotkey.com/), [LibreOffice Writer](https://www.libreoffice.org/), [ONLYOFFICE Docs](https://www.onlyoffice.com/), [Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor), [Google Docs spelling & grammar suggestions](https://support.google.com/docs/answer/57859) |
+
+### Where your text goes
+
+| Processing | What it means | Tools |
+|---|---|---|
+| **On-device** | Text never leaves your machine | Harper, Vale, Espanso, Cotypist, Apple Writing Tools, LibreOffice and the other local linters/expanders below in the catalog (`data_processing: On-device`) |
+| **Self-hosted** | Your server, your rules | LanguageTool Server, ONLYOFFICE Docs |
+| **BYOK (your key)** | Text goes only to the provider *you* chose, with *your* API key | GemType, Kerlig, BoltAI, and the BYOK modes of Refine, GhostEdit, WritingTools, RewriteBar |
+| **Vendor cloud** | The vendor processes your text on their servers under their policy | Most SaaS checkers (QuillBot, ProWritingAid, DeepL Write, Wordtune, Smart Compose…) — fine for public drafts, think twice for sensitive ones |
+
+Full per-tool values live in `data/tools.json` (`languages`, `data_processing`); the picker linked below filters on both.
+
 ## Contents
 
 - [System-wide Desktop Assistants (Refine-class)](#system-wide-desktop-assistants-refine-class)
@@ -77,7 +98,7 @@ Correcting fixes what you wrote. **Augmenting helps you write it in the first pl
 | [Beeftext](https://github.com/xmichelo/Beeftext) | Snippets on Windows, no scripting needed — Free, open-source text snippet manager for Windows: abbreviations expand into longer text in almost any application. | MIT (free and open source) | Yes |
 | [Text Blaze](https://blaze.today/) | Templated replies with fill-in forms — Snippet and text-expansion tool for Chrome and Windows with fill-in forms, formulas, and dynamic fields for repetitive writing. | Freemium (free plan) | No |
 | [Raycast Snippets](https://www.raycast.com/core-features/snippets) | Launcher + snippets in one (Mac) — Snippet expansion built into the Raycast launcher: create text snippets with dynamic placeholders and expand them with a keyword in any Mac app. | Free core (Raycast Pro adds AI/cloud sync) | No |
-| [Gmail Smart Compose](https://workspace.google.com/products/gmail/) | Predictive phrases while emailing — Predictive writing in Gmail: as you type, Smart Compose suggests whole phrases; press Tab to accept. Personalization learns from your prior mail (can be disabled). | Free with Gmail / Google Workspace | No |
+| [Gmail Smart Compose](https://workspace.google.com/products/gmail/), [RedPen](https://github.com/redpen-cc/redpen) (English/Japanese) | Predictive phrases while emailing — Predictive writing in Gmail: as you type, Smart Compose suggests whole phrases; press Tab to accept. Personalization learns from your prior mail (can be disabled). | Free with Gmail / Google Workspace | No |
 | [Microsoft SwiftKey](https://www.microsoft.com/en-us/swiftkey) | Prediction & rewrite on your phone — Free AI keyboard for iPhone and Android with next-word prediction, autocorrect, and AI rewrite/tone features, plus clipboard and translation built in. | Free (Microsoft account features optional) | No |
 | [Lex](https://lex.page/) | AI drafting partner for long-form — Minimal AI word processor for drafting: ask AI to continue, rework, or unblock a paragraph, get feedback, and collaborate, in a clean document editor. | Freemium (free tier) | No |
 | [PhraseExpress](https://www.phraseexpress.com/) | Canned responses for support & office work — Mature text-expander and macro tool for Windows and Mac that inserts phrases, forms, and canned responses system-wide, with clipboard management. | Free edition (personal use); paid licenses | No |
@@ -169,6 +190,7 @@ Writing help already included in your browser, office suite, or OS.
 
 - [Augmenting writing](docs/augmenting-writing.md) — predicting, expanding, and drafting vs correcting: autocomplete, snippets, Smart Compose, and AI continuation, and how to stack them with a checker.
 - [Refine-class apps](docs/refine-class-apps.md) — what makes a system-wide assistant (inline injection, local models, BYOK, floating editor), and how Refine, GhostEdit, GrammarGem, WritingTools and friends differ.
+- [Stacks](docs/stacks.md) — ready-made $0 setups: Mac, Windows, Linux, student, developer-docs, and ESL stacks, with the exact install order.
 - [Choosing a free checker](docs/choosing-a-checker.md) — which category fits your writing (email, essays, code docs, multilingual, private drafts).
 - [Free-tier limits, honestly](docs/free-tier-limits.md) — what each free tier actually caps and when paying is genuinely worth it.
 - [Self-hosting & offline](docs/self-hosting-and-offline.md) — running LanguageTool, Harper, Vale and friends locally.
