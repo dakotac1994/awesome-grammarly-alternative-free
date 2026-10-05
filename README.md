@@ -209,7 +209,8 @@ Writing help already included in your browser, office suite, or OS.
 - [Augmenting writing](docs/augmenting-writing.md) — predicting, expanding, and drafting vs correcting: autocomplete, snippets, Smart Compose, and AI continuation, and how to stack them with a checker.
 - [Refine-class apps](docs/refine-class-apps.md) — what makes a system-wide assistant (inline injection, local models, BYOK, floating editor), and how Refine, GhostEdit, GrammarGem, WritingTools and friends differ.
 - [Stacks](docs/stacks.md) — ready-made $0 setups: Mac, Windows, Linux, student, developer-docs, and ESL stacks, with the exact install order.
-- [Choosing a free checker](docs/choosing-a-checker.md) — which category fits your writing (email, essays, code docs, multilingual, private drafts).
+- [Choosing a free checker](docs/choosing-a-checker.md)
+- [Deliberately excluded, and retired](docs/excluded-and-retired.md) — what was left out and why (paid-only tools, trial-only offers, chatbot pattern, unverifiable drops), plus the retirement log. — which category fits your writing (email, essays, code docs, multilingual, private drafts).
 - [Free-tier limits, honestly](docs/free-tier-limits.md) — what each free tier actually caps and when paying is genuinely worth it.
 - [Self-hosting & offline](docs/self-hosting-and-offline.md) — running LanguageTool, Harper, Vale and friends locally.
 - [Glossary](docs/glossary.md) — grammar checker vs prose linter vs readability score, free tier vs freemium.
