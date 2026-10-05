@@ -7,6 +7,7 @@ exclude = [
   "reverso\\.net",  # unreachable from automated checkers; live for humans
   "onlinecorrection\\.com",  # unreachable from automated checkers; live for humans
   "slickwrite\\.com",  # unreachable from automated checkers; live for humans
+  "whitesmoke\\.com",  # 500 to automated checks; live for humans
 ]
 # Be lenient with rate-limited hosts; retry before failing.
 max_retries = 3
