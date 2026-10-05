@@ -36,7 +36,7 @@ jobs:
 
           required = {"name", "org", "category", "description", "url",
                       "license", "open_source", "verified", "last_verified", "features", "best_for"}
-          categories = {"system-wide", "grammar-checkers", "open-source", "readability",
+          categories = {"system-wide", "augmenting-writing", "grammar-checkers", "open-source", "readability",
                         "academic", "built-in-free"}
           path = "data/tools.json"
           data = json.load(open(path))

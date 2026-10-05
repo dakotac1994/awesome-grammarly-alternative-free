@@ -1,6 +1,6 @@
 # Awesome Grammarly Alternative (Free) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Free Grammarly alternatives that actually hold up: system-wide desktop assistants in the style of [Refine](https://refine.sh/), grammar checkers with a real free tier, and open-source tools that run entirely on your machine. **58 tools**, each checked against its official source; paid upsells and free-tier caps are labeled, never hidden.
+> Free Grammarly alternatives that actually hold up: system-wide desktop assistants in the style of [Refine](https://refine.sh/), grammar checkers with a real free tier, and open-source tools that run entirely on your machine. **68 tools**, each checked against its official source; paid upsells and free-tier caps are labeled, never hidden.
 
 ## Start here
 
@@ -11,6 +11,7 @@
 | Checking in every app on Windows | [WritingTools](https://github.com/theJayTea/WritingTools) | Open-source Apple-style Writing Tools for Windows | Free |
 | Multilingual checking (30+ languages) | [LanguageTool](https://languagetool.org/) | Widest language coverage of any free checker | Free tier |
 | Unlimited private checks, self-hosted | [LanguageTool Server](https://github.com/languagetool-org/languagetool) | The OSS server on your machine; point the extension at it | Free (LGPL) |
+| Write faster, not just cleaner | [Cotypist](https://cotypist.app/) (Mac) / [Espanso](https://github.com/espanso/espanso) (everywhere) | On-device autocomplete + snippet expansion augment the draft itself | Free plans / Free (GPL) |
 | A manuscript / novel editor | [ProWritingAid](https://prowritingaid.com/) | 25+ reports on pacing, style, overused words | Free (500 words/check) |
 | Readability, not grammar | [Hemingway Editor](https://hemingwayapp.com/) | Color-coded hard sentences, passive voice, grade level | Free (web) |
 | Essays & journal papers | [Trinka](https://www.trinka.ai/) / [Writefull](https://www.writefull.com/) | Academic tone and journal style guides | Free tiers |
@@ -35,6 +36,7 @@ Apple Writing Tools is the baseline every Mac owner already has: if you have an 
 ## Contents
 
 - [System-wide Desktop Assistants (Refine-class)](#system-wide-desktop-assistants-refine-class)
+- [Augmenting Writing (Autocomplete, Snippets & Drafting)](#augmenting-writing-autocomplete-snippets--drafting)
 - [Grammar & Style Checkers (Free Tier)](#grammar-style-checkers-free-tier)
 - [Open Source & Offline](#open-source-offline)
 - [Readability & Clarity](#readability-clarity)
@@ -64,6 +66,23 @@ Apps that live outside your editor and fix writing *in whatever app you're alrea
 | [Fixkey](https://fixkey.ai/) | Full writing suite without leaving the app | macOS | BYOK / cloud (see site) | Partial | One-time purchase | No |
 | [Kerlig](https://www.kerlig.com/) | BYOK writing fixes in any Mac app | macOS | BYOK | No | One-time purchase (see site) | No |
 | [BoltAI](https://boltai.com/) | BYOK inline AI commands, Mac-wide | macOS | BYOK + local (Ollama) | Partial (local models) | One-time license (see site) | No |
+
+## Augmenting Writing (Autocomplete, Snippets & Drafting)
+
+Correcting fixes what you wrote. **Augmenting helps you write it in the first place**: predicting your next words, expanding `;sig` into your signature, filling templated replies, or continuing a stuck paragraph. These tools pair with a checker — augment the draft, then run the grammar pass. (Also see Cotypist and Typewise in System-wide, and Apple Writing Tools in Built-in Free — the catalog keeps each tool in one section; the [augmenting-writing guide](docs/augmenting-writing.md) maps the overlaps.)
+
+| Tool | Best for | Free model / License | OSS |
+|---|---|---|---|
+| [Espanso](https://github.com/espanso/espanso) | Snippets & text expansion, anywhere — Privacy-first, cross-platform text expander written in Rust: type a short trigger and it expands into sentences, signatures, forms, scripts, or dates, system-wide. | GPL-3.0 (free and open source) | Yes |
+| [Beeftext](https://github.com/xmichelo/Beeftext) | Snippets on Windows, no scripting needed — Free, open-source text snippet manager for Windows: abbreviations expand into longer text in almost any application. | MIT (free and open source) | Yes |
+| [Text Blaze](https://blaze.today/) | Templated replies with fill-in forms — Snippet and text-expansion tool for Chrome and Windows with fill-in forms, formulas, and dynamic fields for repetitive writing. | Freemium (free plan) | No |
+| [Raycast Snippets](https://www.raycast.com/core-features/snippets) | Launcher + snippets in one (Mac) — Snippet expansion built into the Raycast launcher: create text snippets with dynamic placeholders and expand them with a keyword in any Mac app. | Free core (Raycast Pro adds AI/cloud sync) | No |
+| [Gmail Smart Compose](https://workspace.google.com/products/gmail/) | Predictive phrases while emailing — Predictive writing in Gmail: as you type, Smart Compose suggests whole phrases; press Tab to accept. Personalization learns from your prior mail (can be disabled). | Free with Gmail / Google Workspace | No |
+| [Microsoft SwiftKey](https://www.microsoft.com/en-us/swiftkey) | Prediction & rewrite on your phone — Free AI keyboard for iPhone and Android with next-word prediction, autocorrect, and AI rewrite/tone features, plus clipboard and translation built in. | Free (Microsoft account features optional) | No |
+| [Lex](https://lex.page/) | AI drafting partner for long-form — Minimal AI word processor for drafting: ask AI to continue, rework, or unblock a paragraph, get feedback, and collaborate, in a clean document editor. | Freemium (free tier) | No |
+| [PhraseExpress](https://www.phraseexpress.com/) | Canned responses for support & office work — Mature text-expander and macro tool for Windows and Mac that inserts phrases, forms, and canned responses system-wide, with clipboard management. | Free edition (personal use); paid licenses | No |
+| [aText](https://www.trankynam.com/atext/) | Buy-once snippet expansion (Mac/Win) — Inexpensive one-time text-expansion app for Mac and Windows: type abbreviations to insert text, images, checklists, and scripts, synced via iCloud/Dropbox. | One-time purchase | No |
+| [AutoHotkey](https://www.autohotkey.com/) | DIY programmable expansion (Windows) — Free, open-source Windows scripting language whose hotstrings replace abbreviations with longer text — the DIY, fully programmable text expander. | GPL-2.0 (free and open source) | Yes |
 
 ## Grammar & Style Checkers (Free Tier)
 
@@ -148,6 +167,7 @@ Writing help already included in your browser, office suite, or OS.
 
 ## Guides
 
+- [Augmenting writing](docs/augmenting-writing.md) — predicting, expanding, and drafting vs correcting: autocomplete, snippets, Smart Compose, and AI continuation, and how to stack them with a checker.
 - [Refine-class apps](docs/refine-class-apps.md) — what makes a system-wide assistant (inline injection, local models, BYOK, floating editor), and how Refine, GhostEdit, GrammarGem, WritingTools and friends differ.
 - [Choosing a free checker](docs/choosing-a-checker.md) — which category fits your writing (email, essays, code docs, multilingual, private drafts).
 - [Free-tier limits, honestly](docs/free-tier-limits.md) — what each free tier actually caps and when paying is genuinely worth it.

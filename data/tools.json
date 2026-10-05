@@ -1078,5 +1078,185 @@
       "Works in most places you write, including third-party apps and websites (vendor claim)",
       "Requires an Apple Intelligence device (iPhone 15 Pro or later, M1-or-later Mac/iPad) and a supported language/region"
     ]
+  },
+  {
+    "name": "Espanso",
+    "org": "Espanso contributors",
+    "category": "augmenting-writing",
+    "description": "Privacy-first, cross-platform text expander written in Rust: type a short trigger and it expands into sentences, signatures, forms, scripts, or dates, system-wide.",
+    "best_for": "Snippets & text expansion, anywhere",
+    "url": "https://github.com/espanso/espanso",
+    "license": "GPL-3.0 (free and open source)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "100% local, no tracking; Windows, macOS, Linux",
+      "Triggers, regex triggers, forms, shell/script expansions",
+      "File-based YAML config with a package hub (Espanso Hub)",
+      "Also works as your personal system-wide autocorrect"
+    ]
+  },
+  {
+    "name": "Beeftext",
+    "org": "Xavier Michelon",
+    "category": "augmenting-writing",
+    "description": "Free, open-source text snippet manager for Windows: abbreviations expand into longer text in almost any application.",
+    "best_for": "Snippets on Windows, no scripting needed",
+    "url": "https://github.com/xmichelo/Beeftext",
+    "license": "MIT (free and open source)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Combo triggers expand in nearly any Windows app",
+      "Snippet groups, variables (date/time, clipboard), cursor positioning",
+      "Portable mode; local JSON snippet library",
+      "Windows only; GUI-first (no config files to hand-edit)"
+    ]
+  },
+  {
+    "name": "Text Blaze",
+    "org": "Text Blaze (Blaze Today)",
+    "category": "augmenting-writing",
+    "description": "Snippet and text-expansion tool for Chrome and Windows with fill-in forms, formulas, and dynamic fields for repetitive writing.",
+    "best_for": "Templated replies with fill-in forms",
+    "url": "https://blaze.today/",
+    "license": "Freemium (free plan)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Free plan for personal snippets in Chrome",
+      "Form fields, dropdowns, dates, and calculations inside snippets",
+      "Shared team templates on paid plans",
+      "Works where support/sales writing happens: Gmail, helpdesks, CRMs"
+    ]
+  },
+  {
+    "name": "Raycast Snippets",
+    "org": "Raycast",
+    "category": "augmenting-writing",
+    "description": "Snippet expansion built into the Raycast launcher: create text snippets with dynamic placeholders and expand them with a keyword in any Mac app.",
+    "best_for": "Launcher + snippets in one (Mac)",
+    "url": "https://www.raycast.com/core-features/snippets",
+    "license": "Free core (Raycast Pro adds AI/cloud sync)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Keyword-triggered expansion in any app",
+      "Dynamic placeholders: date, time, clipboard, cursor position",
+      "Snippets are part of free Raycast; Pro adds cloud sync and AI",
+      "macOS (Windows in beta per vendor)"
+    ]
+  },
+  {
+    "name": "Gmail Smart Compose",
+    "org": "Google",
+    "category": "augmenting-writing",
+    "description": "Predictive writing in Gmail: as you type, Smart Compose suggests whole phrases; press Tab to accept. Personalization learns from your prior mail (can be disabled).",
+    "best_for": "Predictive phrases while emailing",
+    "url": "https://workspace.google.com/products/gmail/",
+    "license": "Free with Gmail / Google Workspace",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Tab-to-accept phrase predictions in Gmail on web and mobile",
+      "Personalized suggestions based on your writing style (opt-out in Settings)",
+      "Also reduces spelling/grammar slips as a side effect (vendor claim)",
+      "Gmail only; suggestions are cloud-generated"
+    ]
+  },
+  {
+    "name": "Microsoft SwiftKey",
+    "org": "Microsoft",
+    "category": "augmenting-writing",
+    "description": "Free AI keyboard for iPhone and Android with next-word prediction, autocorrect, and AI rewrite/tone features, plus clipboard and translation built in.",
+    "best_for": "Prediction & rewrite on your phone",
+    "url": "https://www.microsoft.com/en-us/swiftkey",
+    "license": "Free (Microsoft account features optional)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Learns your words and phrases for prediction and autocorrect",
+      "AI-powered rewrite and tone adjustment on mobile",
+      "Multilingual prediction across languages",
+      "Free; some AI features need sign-in and connectivity"
+    ]
+  },
+  {
+    "name": "Lex",
+    "org": "Lex",
+    "category": "augmenting-writing",
+    "description": "Minimal AI word processor for drafting: ask AI to continue, rework, or unblock a paragraph, get feedback, and collaborate, in a clean document editor.",
+    "best_for": "AI drafting partner for long-form",
+    "url": "https://lex.page/",
+    "license": "Freemium (free tier)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Continue/rewrite/brainstorm inside the document, not a chatbot tab",
+      "Version history, comments, and collaboration",
+      "Built for essays, newsletters, and book drafts",
+      "Cloud editor; free tier limits AI usage (see site)"
+    ]
+  },
+  {
+    "name": "PhraseExpress",
+    "org": "Bartels Media",
+    "category": "augmenting-writing",
+    "description": "Mature text-expander and macro tool for Windows and Mac that inserts phrases, forms, and canned responses system-wide, with clipboard management.",
+    "best_for": "Canned responses for support & office work",
+    "url": "https://www.phraseexpress.com/",
+    "license": "Free edition (personal use); paid licenses",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "System-wide phrase insertion with fill-in forms and macros",
+      "Clipboard manager and text prediction features",
+      "Team phrase sharing on paid/server editions",
+      "Long-running Windows staple; Mac version available"
+    ]
+  },
+  {
+    "name": "aText",
+    "org": "Tran Ky Nam",
+    "category": "augmenting-writing",
+    "description": "Inexpensive one-time text-expansion app for Mac and Windows: type abbreviations to insert text, images, checklists, and scripts, synced via iCloud/Dropbox.",
+    "best_for": "Buy-once snippet expansion (Mac/Win)",
+    "url": "https://www.trankynam.com/atext/",
+    "license": "One-time purchase",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Abbreviation expansion for text, images, and rich content",
+      "Date/time math, clipboard and field placeholders",
+      "Syncs via iCloud, Dropbox, or shared folders",
+      "One-time license instead of the usual snippet subscription"
+    ]
+  },
+  {
+    "name": "AutoHotkey",
+    "org": "AutoHotkey Foundation",
+    "category": "augmenting-writing",
+    "description": "Free, open-source Windows scripting language whose hotstrings replace abbreviations with longer text — the DIY, fully programmable text expander.",
+    "best_for": "DIY programmable expansion (Windows)",
+    "url": "https://www.autohotkey.com/",
+    "license": "GPL-2.0 (free and open source)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "features": [
+      "Hotstrings: type an abbreviation, get the full text, in any app",
+      "Full scripting when snippets need logic, GUIs, or automation",
+      "Huge community script library for writing workflows",
+      "Windows only; you write and maintain the scripts"
+    ]
   }
 ]
