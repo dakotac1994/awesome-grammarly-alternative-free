@@ -1,6 +1,6 @@
 # Awesome Grammarly Alternative (Free) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Free Grammarly alternatives that actually hold up: system-wide desktop assistants in the style of [Refine](https://refine.sh/), grammar checkers with a real free tier, and open-source tools that run entirely on your machine. **68 tools**, each checked against its official source; paid upsells and free-tier caps are labeled, never hidden.
+> Free Grammarly alternatives that actually hold up: system-wide desktop assistants in the style of [Refine](https://refine.sh/), grammar checkers with a real free tier, and open-source tools that run entirely on your machine. **75 tools**, each checked against its official source; paid upsells and free-tier caps are labeled, never hidden.
 
 ## Start here
 
@@ -55,6 +55,22 @@ Apple Writing Tools is the baseline every Mac owner already has: if you have an 
 | **Vendor cloud** | The vendor processes your text on their servers under their policy | Most SaaS checkers (QuillBot, ProWritingAid, DeepL Write, Wordtune, Smart Compose…) — fine for public drafts, think twice for sensitive ones |
 
 Full per-tool values live in `data/tools.json` (`languages`, `data_processing`); the picker linked below filters on both.
+
+## Dictation & Voice Drafting
+
+The fastest draft is a spoken one. Dictation is the one augmenting mode that starts from nothing: talk, then let the checkers above clean it up. This section is deliberately separate from the checkers — none of these fix grammar as their main job, and that's fine; that's what the rest of the list is for.
+
+| Best for | Tool | What you get free | Languages | Where audio goes |
+|---|---|---|---|---|
+| **Fastest polished dictation anywhere** | [Wispr Flow](https://wisprflow.ai/) | Free plan with a weekly word limit; AI cleanup (filler removal, formatting) built in | 100+ (vendor claim) | Vendor cloud |
+| **Private dictation on Mac** | [Superwhisper](https://superwhisper.com/) | Free tier; on-device models or your own API keys | 100+ (Whisper models) | On-device or BYOK |
+| **Free open-source Mac dictation** | [VoiceInk](https://github.com/Beingpax/VoiceInk) | Fully free (GPL-3.0); local Whisper or your own cloud keys | 99 (Whisper) | On-device or BYOK |
+| **Offline dictation on Windows/Linux** | [Handy](https://github.com/cjpais/Handy) | Fully free (MIT); offline models, no account | 99 (Whisper models) | On-device |
+| **Transcribing files free on Mac** | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) | Free version transcribes files on-device; Pro adds system-wide dictation | 99 (Whisper) | On-device |
+| **Building offline speech-to-text** | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Free (MIT); the engine inside most apps above | 99 (Whisper) | On-device |
+| **The reference open STT model** | [Whisper](https://github.com/openai/whisper) | Free (MIT) open weights in five sizes | 99 languages | On-device |
+
+**How to stack it:** dictate the draft (this section) → structure it (Augmenting Writing) → correct it (a checker). One honest caveat: the cloud dictators (Wispr Flow) hear everything you say; the on-device ones (VoiceInk, Handy, Superwhisper's local mode) are slower to polish but keep audio on your machine.
 
 ## Contents
 

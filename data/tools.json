@@ -1394,5 +1394,138 @@
       "Huge community script library for writing workflows",
       "Windows only; you write and maintain the scripts"
     ]
+  },
+  {
+    "name": "Wispr Flow",
+    "org": "Wispr",
+    "category": "dictation",
+    "description": "Cloud AI dictation in any app with automatic cleanup: filler words removed, lists formatted, tone matched to the app.",
+    "best_for": "Fastest polished dictation anywhere",
+    "url": "https://wisprflow.ai/",
+    "license": "Free plan (weekly word limit)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "100+ (vendor claim)",
+    "data_processing": "Vendor cloud",
+    "features": [
+      "Push-to-talk or hands-free dictation in any app",
+      "AI cleanup: punctuation, filler removal, formatting",
+      "Mac, Windows, iOS, Android"
+    ]
+  },
+  {
+    "name": "Superwhisper",
+    "org": "Superwhisper",
+    "category": "dictation",
+    "description": "Mac/iOS dictation with on-device models or your own API keys; custom modes for email, notes, and code.",
+    "best_for": "Private dictation on Mac",
+    "url": "https://superwhisper.com/",
+    "license": "Free tier",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "100+ (Whisper models)",
+    "data_processing": "On-device or BYOK",
+    "features": [
+      "Local Whisper models for offline dictation",
+      "Modes: per-app prompts and vocabularies",
+      "macOS and iOS"
+    ]
+  },
+  {
+    "name": "MacWhisper",
+    "org": "Jordi Bruin",
+    "category": "dictation",
+    "description": "Transcribes audio and video files on-device with Whisper; the free version covers file transcription, Pro adds system-wide dictation.",
+    "best_for": "Transcribing files free on Mac",
+    "url": "https://goodsnooze.gumroad.com/l/macwhisper",
+    "license": "Free (Pro unlocks dictation)",
+    "open_source": false,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "99 (Whisper)",
+    "data_processing": "On-device",
+    "features": [
+      "Drag-and-drop transcription for recordings and meetings",
+      "Speaker detection and subtitle export in paid tiers",
+      "Apple Silicon optimized"
+    ]
+  },
+  {
+    "name": "VoiceInk",
+    "org": "Beingpax",
+    "category": "dictation",
+    "description": "Open-source macOS dictation: hold a key and talk into any app, transcribed locally with Whisper or via your own cloud keys.",
+    "best_for": "Free open-source Mac dictation",
+    "url": "https://github.com/Beingpax/VoiceInk",
+    "license": "Free (GPL-3.0)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "99 (Whisper)",
+    "data_processing": "On-device or BYOK",
+    "features": [
+      "Push-to-talk system-wide dictation",
+      "Local models or bring-your-own provider",
+      "Active open-source development"
+    ]
+  },
+  {
+    "name": "Handy",
+    "org": "cjpais",
+    "category": "dictation",
+    "description": "Free, open-source, cross-platform push-to-talk dictation running Whisper/Parakeet models entirely offline.",
+    "best_for": "Offline dictation on Windows/Linux",
+    "url": "https://github.com/cjpais/Handy",
+    "license": "Free (MIT)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "99 (Whisper models)",
+    "data_processing": "On-device",
+    "features": [
+      "Works on Windows, macOS, and Linux",
+      "No account, no cloud, no cost",
+      "Extensible model support"
+    ]
+  },
+  {
+    "name": "whisper.cpp",
+    "org": "ggml-org",
+    "category": "dictation",
+    "description": "The C/C++ port of Whisper that powers most offline dictation apps; Metal and Core ML acceleration on Apple Silicon.",
+    "best_for": "Building offline speech-to-text",
+    "url": "https://github.com/ggml-org/whisper.cpp",
+    "license": "Free (MIT)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "99 (Whisper)",
+    "data_processing": "On-device",
+    "features": [
+      "The engine inside MacWhisper, VoiceInk, Handy and many others",
+      "Runs on CPU, GPU, and Apple Silicon",
+      "CLI, server, and library forms"
+    ]
+  },
+  {
+    "name": "Whisper",
+    "org": "OpenAI",
+    "category": "dictation",
+    "description": "The original open-weights speech recognition model family; robust across accents, noise, and 99 languages.",
+    "best_for": "The reference open STT model",
+    "url": "https://github.com/openai/whisper",
+    "license": "Free (MIT)",
+    "open_source": true,
+    "verified": true,
+    "last_verified": "2026-10-04",
+    "languages": "99 languages",
+    "data_processing": "On-device",
+    "features": [
+      "Open weights, free for any use",
+      "Model sizes from tiny to large-v3",
+      "The baseline every dictation app builds on"
+    ]
   }
 ]

@@ -20,7 +20,7 @@ Thanks for helping keep this the most honest directory of free Grammarly alterna
 |---|---|---|
 | `name` | string | product / project name |
 | `org` | string | vendor / organization / author |
-| `category` | string | `system-wide` / `augmenting-writing` / `grammar-checkers` / `open-source` / `readability` / `academic` / `built-in-free` |
+| `category` | string | `system-wide` / `augmenting-writing`, `dictation` / `grammar-checkers` / `open-source` / `readability` / `academic` / `built-in-free` |
 | `description` | string | one sentence |
 | `best_for` | string | 3–7 words: the writing job this tool wins at |
 | `languages` | string | language coverage, e.g. `English`, `30+ languages` — vendor-stated only |
