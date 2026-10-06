@@ -6,7 +6,7 @@ There is no single best free checker — there is a best checker for the writing
 
 - **Email, Slack, docs at work** → a browser-extension checker (LanguageTool, QuillBot, Microsoft Editor). The value is checking *where you already type*, not in a separate tab.
 - **Essays, theses, journal papers** → an academic checker (Trinka, Writefull, Paperpal) plus a plagiarism pass (Quetext, PaperRater). Generic checkers miss journal style guides entirely.
-- **Blog posts and marketing copy** → readability first (Hemingway, Readable), grammar second. A grammatically perfect paragraph nobody finishes reading is still a failure.
+- **Blog posts and marketing copy** → readability first (Hemingway, WebFX Readability Tool), grammar second. A grammatically perfect paragraph nobody finishes reading is still a failure.
 - **Code documentation (Markdown, LaTeX)** → open-source linters (Vale, Harper, LTeX+, cspell). They run in CI next to your tests and never phone home.
 - **Non-English or multilingual writing** → LanguageTool (30+ languages) or Grammalecte (French). Grammarly's non-English support is the thinnest part of its product.
 

@@ -4,6 +4,7 @@ Product status changes, rebrands, shutdowns, and notable pricing-model changes f
 
 | Date | Entry | Change |
 |---|---|---|
+| 2026-10-05 | Typewise, Readable | **Removed (2)** per the first monthly freshness watch, verified on both vendors' official pages. Typewise's consumer keyboard is discontinued (company is B2B-only since 2022 — entry was materially wrong). Readable's free offer is now trial-only ("7 Days Free Readability Scoring"; no perpetual free tier — violates this list's trial rule). Both moved to `docs/excluded-and-retired.md`. Catalog now **73 entries, 70 verified**. |
 | 2026-10-04 | — | `docs/excluded-and-retired.md` added: paid-only exclusions (Antidote, WhiteSmoke, Notion AI), trial-only rule, chatbot-pattern exclusion, and the research honesty log (Grambo dropped as unverifiable; the 3 `verified: false` entries disclosed). |
 | 2026-10-04 | — | Dictation & Voice Drafting section added (7 tools: Wispr Flow, Superwhisper, MacWhisper, VoiceInk, Handy, whisper.cpp, Whisper — all URL-verified 2026-10-04), taking the catalog to 75 tools. Dictation was the one augmenting mode previously only mentioned in the guide. |
 | 2026-10-04 | — | Matrices + stacks release: `languages` and `data_processing` fields added to all 68 catalog entries, README gains language-coverage and where-your-text-goes matrices, and `docs/stacks.md` adds six $0 stacks (Mac, Windows, Linux, student, developer-docs, ESL) plus a privacy-max stack. Interactive picker to follow. |

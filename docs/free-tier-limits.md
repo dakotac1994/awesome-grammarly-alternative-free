@@ -33,7 +33,7 @@ What each free tier actually lets you do, as of 2026-10-04. Limits change often;
 | RewriteBar | $29 one-time; optional hosted Gateway add-on |
 | GrammarGem | $39 one-time (Solo, 1 Mac) |
 | Cotypist | Free plan with daily limit; Plus/Pro subscriptions |
-| Elephas, Typewise | Freemium subscriptions |
+| Elephas | Freemium subscription |
 | Fixkey, Kerlig, BoltAI | One-time license; you pay your own API usage |
 
 ## When paying is actually worth it

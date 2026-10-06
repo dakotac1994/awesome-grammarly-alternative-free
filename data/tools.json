@@ -600,26 +600,6 @@
     ]
   },
   {
-    "name": "Readable",
-    "org": "Readable (ConnectedText)",
-    "category": "readability",
-    "description": "Readability scoring tool that grades text with Flesch-Kincaid, Gunning Fog, SMOG and other formulas, plus keyword and sentiment analysis.",
-    "best_for": "Content teams targeting a reading level",
-    "url": "https://readable.com/",
-    "license": "Freemium (free tier)",
-    "open_source": false,
-    "verified": true,
-    "last_verified": "2026-10-04",
-    "languages": "English (formulas vary)",
-    "data_processing": "Vendor cloud",
-    "features": [
-      "Free readability score for pasted text/URLs",
-      "Multiple readability formulas side by side",
-      "Premium adds bulk scoring and monitoring",
-      "Good for content teams targeting a reading level"
-    ]
-  },
-  {
     "name": "WebFX Readability Tool",
     "org": "WebFX",
     "category": "readability",
@@ -1058,29 +1038,6 @@
     ],
     "platforms": "macOS, iOS",
     "engine": "Cloud / BYOK",
-    "offline": "No"
-  },
-  {
-    "name": "Typewise",
-    "org": "Typewise",
-    "category": "system-wide",
-    "description": "AI writing assistant and keyboard for desktop and mobile that corrects grammar in real time and predicts text in multiple languages.",
-    "best_for": "Multilingual typing on phone & desktop",
-    "url": "https://www.typewise.app/",
-    "license": "Freemium (free tier)",
-    "open_source": false,
-    "verified": true,
-    "last_verified": "2026-10-04",
-    "languages": "Multilingual (40+ keyboards)",
-    "data_processing": "Vendor cloud",
-    "features": [
-      "Custom keyboard (iOS/Android) plus desktop/browser writing assistant",
-      "Real-time grammar correction and multilingual prediction",
-      "Privacy positioning: no keystroke logging claims (see vendor policy)",
-      "Premium unlocks full prediction and correction depth"
-    ],
-    "platforms": "iOS, Android, Desktop, Web",
-    "engine": "Cloud AI",
     "offline": "No"
   },
   {

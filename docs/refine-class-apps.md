@@ -24,7 +24,6 @@
 | [WritingTools](https://github.com/theJayTea/WritingTools) | Windows | Local / BYOK | Free, open-source | You're on Windows and envy macOS Writing Tools |
 | [GemType](https://github.com/riponcm/GemType) | Chrome/Safari + desktop | Your free Gemini key | Free, open-source | You want in-browser underlines at $0 using Google's free tier |
 | [Elephas](https://elephas.app/) | Mac/iPhone/iPad | Cloud / BYOK | Freemium | You write across Apple devices and want replies + rewrites, not just fixes |
-| [Typewise](https://www.typewise.app/) | Mobile/desktop | Cloud AI | Free tier | Your writing happens on a phone keyboard, multilingually |
 | [Cotypist](https://cotypist.app/) | macOS (Apple Silicon) | On-device Gemma | Free plan | You want autocomplete that writes *with* you (adjacent to checking, not a checker) |
 
 ## What to watch for

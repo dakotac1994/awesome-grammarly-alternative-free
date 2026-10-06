@@ -8,7 +8,7 @@ Everything else in this repo **corrects** text that already exists. This part is
 You type; it offers the continuation inline; Tab accepts. The good ones suggest *your* words, not generic AI prose.
 - **Everywhere on Mac, on-device:** [Cotypist](https://cotypist.app/) (System-wide section) — Gemma on your Mac, free plan.
 - **In Gmail:** Smart Compose — Tab-accept phrases as you compose; free with Gmail.
-- **On your phone:** [Microsoft SwiftKey](https://www.microsoft.com/en-us/swiftkey) and [Typewise](https://www.typewise.app/) (System-wide) — prediction tuned per language.
+- **On your phone:** [Microsoft SwiftKey](https://www.microsoft.com/en-us/swiftkey) (System-wide) — prediction tuned per language.
 - Try this first if your bottleneck is *typing speed on repetitive text* (status updates, scheduling, follow-ups).
 
 ### 2. Snippets & text expansion — your own phrases, on a trigger
